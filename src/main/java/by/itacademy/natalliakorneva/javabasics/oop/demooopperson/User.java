@@ -1,4 +1,4 @@
-package by.itacademy.natalliakorneva.javabasics.oop.two;
+package by.itacademy.natalliakorneva.javabasics.oop.demooopperson;
 
 public class User {
     private String name;
